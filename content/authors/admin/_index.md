@@ -18,9 +18,9 @@ highlight_name: true
 # - Computational Linguistics
 # - Information Retrieval
 organizations:
-- name: Stanford University
-  url: https://www.stanford.edu/
-role: Professor of Artificial Intelligence
+- name: Stellenbosch University
+  # url: https://www.stanford.edu/
+role: Mcom Economics Student
 social:
 - icon: envelope
   icon_pack: fas
@@ -41,7 +41,7 @@ social:
   icon_pack: fab
   link: https://www.linkedin.com/
 superuser: true
-title: Nelson Bighetti
+title: Cassandra Pengelly
 ---
 
 Cassandra Pengelly is a Masters student of economics at Stellenbosch University.
